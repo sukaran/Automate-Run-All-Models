@@ -1,0 +1,2 @@
+"modelName","r","R","mae","accuracy","acceptableError","totalTime"
+"randomForest",0.84,0.71,0.68,76.03,1,11.1
